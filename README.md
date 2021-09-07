@@ -1,7 +1,13 @@
 # BoxImageAnn
-Create image annotations with boxes for desired objects
 
-**BoxImageAnn** runs in your local machine and is based on OpenCV.
+Create image annotations with boxes for desired objects.
+
+The annotations are compatible to Darknet format.
+
+
+## **BoxImageAnn** runs in your local machine and is based on OpenCV.
+
+Press any key on keyboard to finish the annotations of current image. Or press **q** key to close the application.
 
 ![Example](/figures/BoxImageAnn.png)
 
